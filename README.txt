@@ -31,25 +31,10 @@ This project was my first deep dive into creating truly responsive web interface
 
 JavaScript was crucial for making the platform interactive and user-friendly:
 
-### DOM Manipulation
-- Dynamically updated page content based on user interactions
-- Managed student and tutor profiles with real-time updates
-- Created smooth transitions and animations
-
 ### Event Handling
 - Implemented click, submit, and form validation handlers
 - Built interactive buttons, modals, and navigation toggles
 - Created responsive event listeners that work across devices
-
-### Asynchronous Operations
-- Fetched tutor and student data from APIs
-- Managed loading states and error handling
-- Implemented smooth data transitions without page reloads
-
-### State Management
-- Tracked user authentication and session data
-- Managed form states and validation
-- Coordinated between different sections of the application
 
 ### FAQ Accordion with JavaScript
 The FAQ section showcases practical JavaScript implementation:
@@ -63,7 +48,6 @@ The FAQ section showcases practical JavaScript implementation:
 - CSS3 for responsive styling and animations
 - JavaScript (Vanilla JS) for interactivity
 - Font Awesome for icons
-- jQuery for simplified DOM manipulation
 - Responsive design principles and best practices
 
 ## 🎯 Key Takeaways
