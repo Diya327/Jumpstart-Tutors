@@ -1,7 +1,7 @@
 # Jumpstart Tutors
 
 ## Overview
-Jumpstart Tutors is an educational platform designed to connect students with tutors. This project served as my introduction to building responsive, interactive web applications and was instrumental in developing my skills in **responsive CSS** and **JavaScript**.
+Jumpstart Tutors is an educational platform designed to connect students with tutors. This project served as my introduction to building responsive, interactive web applications and was instrumental in my journey to mastering modern web development.
 
 ## 🎓 Responsive CSS: Building a Mobile-First Experience
 
@@ -73,6 +73,10 @@ The FAQ section showcases practical JavaScript implementation:
 - Enhance mobile app experience
 - Add advanced search and filtering
 - Implement dark mode toggle
+
+## 🌐 Deployment
+
+The Jumpstart Tutors website has been deployed on Firebase and is live at: **https://jumpstarttutors123.web.app/**
 
 ---
 
